@@ -1,2 +1,2 @@
 # VacationAlert
-Raise a Pull Request to send me a text
+Raise an Issue to send me a text during Vacation.
