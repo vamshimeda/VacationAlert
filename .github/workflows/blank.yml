@@ -15,7 +15,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-- name: Twilio SMS
+name: Twilio SMS
   # You may pin to the exact commit or the version.
   # uses: twilio-labs/actions-sms@d1488bc77f2cc44182fb444073326ccc715103b0
   uses: twilio-labs/actions-sms@v1
